@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\user\Documents\SharpDevelop Projects\Practica7\Practica7\obj\Debug\Practica7.pdb
